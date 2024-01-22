@@ -20,4 +20,4 @@ Repository for the CPE 322 A course in 2024
 [Follow me on Github](https://github.com/nicomcd)
 
 
-![One Piece]()
+![One Piece](Luffy.jpg)
