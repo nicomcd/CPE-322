@@ -8,16 +8,16 @@ Repository for the CPE 322 A course in 2024
 ---
 
 ### Things I am good at
-- Github actions
+- GitHub actions
 - Documentation
 
 ### To - Do List
 1. Edit profile to be up to date
-2. Create github workflow
+2. Create GitHub workflow
 
 ` git clone https://github.com/nicomcd/Engineering-Design-VI.git`
 
-[Follow me on Github](https://github.com/nicomcd)
+[Follow me on GitHub](https://github.com/nicomcd)
 
 
 ![One Piece](Luffy.jpg)
