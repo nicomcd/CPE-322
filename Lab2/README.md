@@ -105,12 +105,12 @@ Linux Soy-Firefly 5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 U
 ```
 
 When attempting to do `ifconfig` I received an error, and I remedied the problem by installing `deb net-tools`:
-![ifconfig error and fix](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab2ipconfigmod.png)
 ```
 $ sudo su -
 $ apt-get install net-tools
 $ exit
 ```
+![ifconfig error and fix](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab2ipconfigmod.png)
 
 ```
 $ ifconfig
