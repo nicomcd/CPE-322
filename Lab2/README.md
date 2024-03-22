@@ -5,6 +5,7 @@ The following code block contains the commands from the lab assignment and its r
 ```
 $ hostname
 Soy-Firefly
+
 $ env
 SHELL=/bin/bash
 WSL_DISTRO_NAME=Ubuntu
@@ -28,12 +29,15 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/us
 HOSTTYPE=x86_64
 OLDPWD=/home/nicoxmcd/vhdl
 _=/usr/bin/env
+
 $ ps
   PID TTY          TIME CMD
    15 pts/0    00:00:01 bash
  4216 pts/0    00:00:00 ps
+
 $ pwd
 /home/nicoxmcd
+
 $ git clone https://github.com/kevinwlu/iot.git
 Cloning into 'iot'...
 remote: Enumerating objects: 22856, done.
@@ -42,12 +46,16 @@ remote: Compressing objects: 100% (1202/1202), done.
 remote: Total 22856 (delta 2194), reused 3766 (delta 2113), pack-reused 18951
 Receiving objects: 100% (22856/22856), 28.77 MiB | 12.21 MiB/s, done.
 Resolving deltas: 100% (14893/14893), done.
+
 $ cd iot
+
 $ ls
 README.md  economics  lesson1   lesson3  lesson6  lesson9   special_problems  tools
 apps       health     lesson10  lesson4  lesson7  make      standards
 cases      hype       lesson2   lesson5  lesson8  projects  systems
+
 $ cd
+
 $ df
 Filesystem     1K-blocks      Used Available Use% Mounted on
 /dev/sdb       263174212   1947628 247788428   1% /
@@ -61,7 +69,9 @@ tmpfs            4010516         0   4010516   0% /sys/fs/cgroup
 drivers        498725688 276715532 222010156  56% /usr/lib/wsl/drivers
 lib            498725688 276715532 222010156  56% /usr/lib/wsl/lib
 drvfs          498725688 276715532 222010156  56% /mnt/c
+
 $ mkdir demo
+
 $ cd demo
 ```
 
@@ -128,6 +138,7 @@ PING localhost (127.0.0.1) 56(84) bytes of data.
 --- localhost ping statistics ---
 45 packets transmitted, 45 received, 0% packet loss, time 45737ms
 rtt min/avg/max/mdev = 0.043/0.086/0.896/0.123 ms
+
 $ netstat
 Active Internet connections (w/o servers)
 Proto Recv-Q Send-Q Local Address           Foreign Address         State
