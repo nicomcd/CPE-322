@@ -76,6 +76,7 @@ $ cd demo
 ```
 
 This is what happens when you create a file using `nano`:
+![Creating a file using nano](Images/Lab2nano.png)
 
 ```
 $ nano file
@@ -86,6 +87,7 @@ $ rm file2
 ```
 
 This is the terminal result after the final `rm file2`:
+![Terminal Screenshot](Images/Lab2file.png)
 
 ```
 $ clear
@@ -93,7 +95,7 @@ $ man uname
 ```
 
 This is what happens when you get the manual for the command `uname`:
-
+![Manual for uname](Images/Lab2man.png)
 
 ```
 $ uname -a
@@ -101,6 +103,7 @@ Linux Soy-Firefly 5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 U
 ```
 
 When attempting to do `ifconfig` I received an error, and I remedied the problem by installing `deb net-tools`:
+![ifconfig error and fix](Images/Lab2ipconfigmod.png)
 
 
 ```
