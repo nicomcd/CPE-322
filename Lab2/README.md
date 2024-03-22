@@ -1,5 +1,9 @@
 *I pledge my Honor that I have abided by the Stevens Honor System*
 
+> Go to the IoT repository
+> Study Lessons 1 and 2
+> Open a terminal
+
 ---
 
 The following code block contains the commands from the lab assignment and its respective output:
