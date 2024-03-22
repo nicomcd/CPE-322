@@ -1,8 +1,8 @@
 *I pledge my Honor that I have abided by the Stevens Honor System*
 
-> Go to the IoT repository
-> Study Lessons 1 and 2
-> Open a terminal
+- Go to the IoT repository
+- Study Lessons 1 and 2
+- Open a terminal
 
 ---
 
