@@ -21,7 +21,7 @@
 
 ---
 
-![One Piece](Images/Luffy.jpg)
+![cHAMber.co](Images/chamber.png)
 
 ### cHAMber.co Members
 - [Follow Anthony on GitHub](https://github.com/BonkMasterMord)
