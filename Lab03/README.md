@@ -1,7 +1,7 @@
 *I pledge my Honor that I have abided by the Stevens Honor System*
 
-> Study the GitHub repository Lesson 3 labs
-> Install required Python packages such as jdcal, astral, and geopy
+- Study the GitHub repository Lesson 3 labs
+- Install required Python packages such as jdcal, astral, and geopy
 
 ---
 
