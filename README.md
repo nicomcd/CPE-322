@@ -1,5 +1,5 @@
 # CPE-322
-Repository for the CPE 322 A course in 2024
+*Repository for the CPE 322 A course in 2024*
 
 ### Program Outcome 7: *(Ability to Learn)*
 **Course Learning Outcomes (CLOs)**
@@ -7,17 +7,30 @@ Repository for the CPE 322 A course in 2024
 
 ---
 
-### Things I am good at
-- GitHub actions
-- Documentation
+### Lab Assignments
+1. GHDL and GTKWave []
+2. Command Line [x]
+3. Python []
+4. Django and Flask []
+5. Paho-MQTT []
+6. Node.js and Pystache []
+7. ThingSpeak and Google Sheets []
+8. Data Analysis []
+9. YANG []
+10. Blockchain []
 
-### To - Do List
-1. Edit profile to be up to date
-2. Create GitHub workflow
+---
+
+![One Piece](Images/Luffy.jpg)
+
+### cHAMber.co Members
+- [Follow Anthony on GitHub](https://github.com/BonkMasterMord)
+- [Follow Seongjun on GitHub](https://github.com/successjun)
+- [Follow me on GitHub](https://github.com/nicomcd)
 
 ` git clone https://github.com/nicomcd/Engineering-Design-VI.git`
 
-[Follow me on GitHub](https://github.com/nicomcd)
 
 
-![One Piece](Images/Luffy.jpg)
+
+
