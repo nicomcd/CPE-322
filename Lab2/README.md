@@ -78,7 +78,7 @@ $ cd demo
 ```
 
 This is what happens when you create a file using `nano`:
-![Creating a file using nano](.../Lab2nano.png)
+![Creating a file using nano](/.../Images/Lab2nano.png)
 
 ```
 $ nano file
