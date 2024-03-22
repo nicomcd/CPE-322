@@ -6,9 +6,6 @@ To clone this repository on your own machine:
 
 ```git clone https://github.com/nicomcd/Engineering-Design-VI.git```
 
-
----
-
 > *Develop a passion for learning. If you do, you will never cease to grow.*
 > Anthony J. D'Angelo
 
