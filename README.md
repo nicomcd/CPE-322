@@ -1,14 +1,19 @@
-# CPE-322
-*Repository for the CPE 322 A course in 2024*
+# Engineering Design VI
+## CPE 322 A
+**Repository for the CPE 322 A course in 2024**
 
-### Program Outcome 7: *(Ability to Learn)*
-**Course Learning Outcomes (CLOs)**
-> 1.2 (Tools) Students will be able to efficiently locate information describing and assessing software tools for exploring the mathematical algorithms and techniques that are embedded in a student project.
+To clone this repository on your own machine:
+
+```git clone https://github.com/nicomcd/Engineering-Design-VI.git```
+
 
 ---
 
+> *Develop a passion for learning. If you do, you will never cease to grow. * - Anthony J. D'Angelo
+
+
 ### Lab Assignments
-1. GHDL and GTKWave []
+1. GHDL and GTKWave [x]
 2. Command Line [x]
 3. Python []
 4. Django and Flask []
@@ -27,8 +32,6 @@
 - [Follow Anthony on GitHub](https://github.com/BonkMasterMord)
 - [Follow Seongjun on GitHub](https://github.com/successjun)
 - [Follow me on GitHub](https://github.com/nicomcd)
-
-` git clone https://github.com/nicomcd/Engineering-Design-VI.git`
 
 
 
