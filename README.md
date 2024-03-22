@@ -12,7 +12,7 @@ To clone this repository on your own machine:
 ### Lab Assignments
 1. GHDL and GTKWave [x]
 2. Command Line [x]
-3. Python []
+3. Python [x]
 4. Django and Flask []
 5. Paho-MQTT []
 6. Node.js and Pystache []
