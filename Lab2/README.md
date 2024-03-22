@@ -4,8 +4,6 @@
 - Study Lessons 1 and 2
 - Open a terminal
 
----
-
 The following code block contains the commands from the lab assignment and its respective output:
 
 ```
@@ -81,8 +79,10 @@ $ mkdir demo
 $ cd demo
 ```
 
+
 This is what happens when you create a file using `nano`:
 ![Creating a file using nano](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab2nano.png)
+
 
 ```
 $ nano file
@@ -92,29 +92,40 @@ $ mv file file2
 $ rm file2
 ```
 
+
 This is the terminal result after the final `rm file2`:
 ![Terminal Screenshot](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab2file.png)
+
 
 ```
 $ clear
 $ man uname
 ```
 
+
 This is what happens when you get the manual for the command `uname`:
 ![Manual for uname](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab2man.png)
+
 
 ```
 $ uname -a
 Linux Soy-Firefly 5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
+
 When attempting to do `ifconfig` I received an error, and I remedied the problem by installing `deb net-tools`:
+
+
 ```
 $ sudo su -
 $ apt-get install net-tools
 $ exit
 ```
+
+
 ![ifconfig error and fix](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab2ipconfigmod.png)
+
+
 
 ```
 $ ifconfig
