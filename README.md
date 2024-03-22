@@ -1,5 +1,4 @@
 # Engineering Design VI
-## CPE 322 A
 **Repository for the CPE 322 A course in 2024**
 
 To clone this repository on your own machine:
@@ -23,6 +22,10 @@ To clone this repository on your own machine:
 10. Blockchain []
 
 ---
+
+## cHAMber.co
+
+Our project team is currently designing and following the engineering design process in creating a bracket for liquid metal cooling. 
 
 ![cHAMber.co](Images/chamber.png)
 
