@@ -78,7 +78,7 @@ $ cd demo
 ```
 
 This is what happens when you create a file using `nano`:
-![Creating a file using nano](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab2nano.png =x250)
+![Creating a file using nano](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab2nano.png)
 
 ```
 $ nano file
