@@ -3,6 +3,8 @@
 > Study the GitHub repository Lesson 3 labs
 > Install required Python packages such as jdcal, astral, and geopy
 
+---
+
 ![Installing required Python packages](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab3installgeopy.png)
 
 ```
@@ -36,6 +38,7 @@ Fri Mar 22 14:42:52 2024
 ```
 
 When attempting to run `python3 sun.py 'New York'`, received error describing no module named 'pytz', so I installed it it using `pip install pytz`:
+
 ![Installing pytz](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab3pytz.png)
 
 ```
@@ -94,6 +97,7 @@ Samuel C. Williams Library, Field House Road, Hoboken, Hudson County, New Jersey
 ```
 
 When attempting to run `python3 cpu.py`, received error describing no module named 'psutil', so I installed it it using `pip install psutil`:
+
 ![Installing psutil](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/Lab3psutil.png)
 
 
