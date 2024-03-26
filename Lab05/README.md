@@ -8,4 +8,5 @@
 - Run python3 subcpu.py on one Terminal
 - Run python3 pubcpu.py on another
 
+[Download MQTT for Windowsx64](https://mosquitto.org/download/)
   
