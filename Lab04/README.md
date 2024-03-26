@@ -62,7 +62,16 @@ $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ```
 
-[Install mariadb for Windows](https://mariadb.com/downloads/community/community-server/)
-
 Got error did 
 `sudo apt install pkg-config`
+
+[Install mariadb for Windows](https://mariadb.com/downloads/community/community-server/)
+
+```
+sudo apt install sqlite
+sudo sqlite root
+```
+
+nothings working and i am sad
+
+
