@@ -62,5 +62,7 @@ $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ```
 
+[Install mariadb for Windows](https://mariadb.com/downloads/community/community-server/)
+
 Got error did 
 `sudo apt install pkg-config`
