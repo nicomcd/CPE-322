@@ -15,7 +15,7 @@ To clone this repository on your own machine:
 3. Python [x]
 4. Django and Flask []
 5. Paho-MQTT []
-6. Node.js and Pystache []
+6. Node.js and Pystache [x]
 7. ThingSpeak and Google Sheets []
 8. Data Analysis []
 9. YANG []
