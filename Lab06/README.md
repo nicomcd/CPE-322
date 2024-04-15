@@ -72,3 +72,42 @@ $ node http.js
 
 ### Lab 6B: Pystache
 
+```
+$ sudo pip3 install pystache
+$ cd ~/iot/lesson6
+$ cat say_hello.mustache
+Hello, {{to}}!
+$ cat say_hello.py
+
+# https://github.com/defunkt/pystache
+import pystache
+print(pystache.render('Hi {{person}}!', {'person': 'Alexa'}))
+
+# Create dedicated view classes to hold view logic
+class SayHello(object):
+    def to(self):
+        return "World"
+hello = SayHello()
+
+# Use template in say_hello.mustache
+renderer = pystache.Renderer()
+print(renderer.render(hello))
+
+# Pre-parse a template
+parsed = pystache.parse('Hey {{#who}}{{.}}!{{/who}}')
+print(parsed)
+print(renderer.render(parsed, {'who': 'Google'}))
+print(renderer.render(parsed, {'who': 'Siri'}))
+
+$ python3 say_hello.py
+Hi Alexa!
+Hello, World!
+
+['Hey ', _SectionNode(key='who', index_begin=12, index_end=18, parsed=[_EscapeNode(key='.'), '!'])]
+Hey Google!
+Hey Siri!
+```
+
+![image](https://github.com/nicomcd/Engineering-Design-VI/assets/35404943/ae3136ea-ab49-44e1-83ad-3c9ca3295c18)
+
+
