@@ -9,3 +9,8 @@
 
 
 The following code block contains the commands from the lab assignment and its respective output:
+
+### Lab 8A: Examples
+
+### Lab 8B: Data Analysis
+
