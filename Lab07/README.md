@@ -135,3 +135,5 @@ GDOCS_OAUTH_JSON = 'rpidata-xxxxxxxxxxxx.json'
 GDOCS_SPREADSHEET_NAME = 'cpudata'
 $ python3 rpi_spreadsheet.py
 ```
+![image](https://github.com/nicomcd/Engineering-Design-VI/assets/35404943/e54fef49-0b94-4410-9e1b-bb563f69190e)
+
