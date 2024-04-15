@@ -116,3 +116,22 @@ $ python3 thingspeak_feed.py
 ```
 ![image](https://github.com/nicomcd/Engineering-Design-VI/assets/35404943/f65dd161-6a08-43f3-8a47-811f29af3e6e)
 
+![image](https://github.com/nicomcd/Engineering-Design-VI/assets/35404943/2cb636be-741a-4456-beea-284f9659ca48)
+
+![image](https://github.com/nicomcd/Engineering-Design-VI/assets/35404943/e1e0149a-56c3-4628-a890-decb4b8ec676)
+
+
+### Lab 7B: Google Sheets
+```
+$ sudo pip3 install -U gspread oauth2client
+$ cd demo
+$ cp ~/iot/lesson3/system_info.py .
+$ cp ~/iot/lesson7/rpi_spreadsheet.py .
+$ nano rpi_spreadsheet.py
+```
+![image](https://github.com/nicomcd/Engineering-Design-VI/assets/35404943/30ce6550-591e-4da2-990c-e634259a7ac2)
+```
+GDOCS_OAUTH_JSON = 'rpidata-xxxxxxxxxxxx.json'
+GDOCS_SPREADSHEET_NAME = 'cpudata'
+$ python3 rpi_spreadsheet.py
+```
