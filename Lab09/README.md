@@ -324,3 +324,20 @@ $ python3 -m plantuml intrusiondetection.uml
 
 
 ![inrtusiondetection.png](https://github.com/nicomcd/Engineering-Design-VI/blob/main/Images/intrusiondetection.png)
+
+### Lab 9B: Qiskit
+```
+$ pip3 install qiskit[visualization] qiskit-aer qiskit_ibm_provider
+$ python3
+>>> from qiskit_ibm_provider import IBMProvider
+>>> IBMProvider.save_account('MY_API_TOKEN')
+>>> exit()
+$ cd ~/iot/lesson9
+$ python3 qiskit_terra_example.py
+$ python3 qiskit_aer_example.py
+```
+Getting errors with a module called aer and fakemanila
+![image](https://github.com/nicomcd/Engineering-Design-VI/assets/35404943/255602ac-c612-4846-99bf-6b61baeb94e3)
+![image](https://github.com/nicomcd/Engineering-Design-VI/assets/35404943/4adbc700-0295-44e7-81d9-4a1cf63316b9)
+
+
