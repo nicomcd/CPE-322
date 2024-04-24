@@ -18,7 +18,7 @@ To clone this repository on your own machine:
 6. Node.js and Pystache [x]
 7. ThingSpeak and Google Sheets [x]
 8. Data Analysis []
-9. YANG [x]
+9. YANG and Qiskit [x]
 10. Blockchain []
 
 ---
