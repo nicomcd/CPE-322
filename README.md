@@ -14,7 +14,7 @@ To clone this repository on your own machine:
 2. Command Line [x]
 3. Python [x]
 4. Django and Flask []
-5. Paho-MQTT []
+5. Paho-MQTT [x]
 6. Node.js and Pystache [x]
 7. ThingSpeak and Google Sheets [x]
 8. Data Analysis []
