@@ -8,6 +8,9 @@
 - Install Flask if no module named 'flask'
 - Run Flask server via hello_world.py and view app
 
+
+### Labs 4A and 4B: Django and Django REST
+
 ```
 $ pip3 -V
 pip 22.0.2 from /usr/lib/python3/dist-packages/pip (python 3.10)
@@ -62,16 +65,7 @@ $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ```
 
-Got error did 
-`sudo apt install pkg-config`
+### Lab 4C: Flask
 
-[Install mariadb for Windows](https://mariadb.com/downloads/community/community-server/)
-
-```
-sudo apt install sqlite
-sudo sqlite root
-```
-
-nothings working and i am sad
 
 
