@@ -13,13 +13,13 @@ To clone this repository on your own machine:
 1. GHDL and GTKWave [x]
 2. Command Line [x]
 3. Python [x]
-4. Django and Flask []
+4. Django and Flask [/]
 5. Paho-MQTT [x]
 6. Node.js and Pystache [x]
 7. ThingSpeak and Google Sheets [x]
-8. Data Analysis []
+8. Data Analysis [/]
 9. YANG and Qiskit [x]
-10. Blockchain []
+10. Blockchain [/]
 
 ---
 
